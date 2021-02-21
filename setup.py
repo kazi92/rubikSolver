@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from os import path
 from codecs import open
 
-__author__ = 'Aniket Kumar'
+__author__ = 'Kazi Haque'
 
 here = path.abspath(path.dirname(__file__))
 # Get the long description from the README file
