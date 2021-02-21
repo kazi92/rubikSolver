@@ -1,6 +1,6 @@
 Python Rubik Solver
 ===================
-
+====
 Rubik Cube solving library and command line utility
 
 How to install
